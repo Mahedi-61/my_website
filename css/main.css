@@ -206,12 +206,15 @@ body{
 
 
 #index #nav1 .active, 
-#pub #nav1 .pub, 
+#publication #nav1 .publication, 
 #thesis #nav1 .thesis, 
 #teaching #nav1 .teaching, 
+#projects #nav1 .projects, 
 #experience #nav1 .experience, 
 #education #nav1 .education,
 #accolades #nav1 .accolades,
-#gallery #nav1 .gallery{
+#affiliation #nav1 .affiliation,
+#skills #nav1 .skills,
+#extracurricular #nav1 .extracurricular{
    font-family: "sans-serif";
 }
